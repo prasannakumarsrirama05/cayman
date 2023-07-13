@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
   <title>AWS EKS - Elastic Kubernetes Service</title>
